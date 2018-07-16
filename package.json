@@ -1,0 +1,36 @@
+{
+  "name": "node-mongodb-crud",
+  "version": "0.0.2",
+  "description": "This is used to make CRUD operations in Node.js with MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node-mongodb-crud",
+    "npm-mongodb-crud",
+    "node.js",
+    "mongodb",
+    "mongodb crud",
+    "node with mongodb",
+    "mongodb-crud"
+  ],
+  "private": false,
+  "author": "Mandar Raskar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mandar-raskar/mongodb-crud"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "logger": "0.0.1",
+    "mongodb": "^3.1.1",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7"
+  }
+}
